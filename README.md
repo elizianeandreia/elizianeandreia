@@ -26,4 +26,8 @@
 
 ![elizianeandreia GitHub stats](https://github-readme-stats.vercel.app/api?username=elizianeandreia&show_icons=true&theme=merko)
 
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-liziandreia@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liziandreia@gmail.com)](mailto:liziandreia@gmail.com)
+[![Linkedin: Eliziane ](https://img.shields.io/badge/-elizianeandreiajunckes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliziane-a-a523062a0//)](https://www.linkedin.com/in/eliziane-a-a523062a0/)
     
