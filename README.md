@@ -1,7 +1,7 @@
 
-  # 🚀 Olá, me chamo Eliziane codinome Lizi  - Software Developer /Support
   
   ## Sobre mim
+  # 🚀 Olá, me chamo Eliziane codinome Lizi  - Software Developer   | Support
   
   ✨ Sou uma pessoa apaixonadoa por desafios criativos e soluções inovadoras, e estou determinada a levar a programação a um novo patamar ao misturar arte e código para criar experiências únicas. Além disso, ofereço suporte respeitável e empático, colocando as necessidades dos usuários em primeiro lugar e oferecendo soluções personalizadas✨
   
@@ -23,5 +23,7 @@
   
       [![My Skills](https://skillicons.dev/icons?i=postman,kibana)](https://skillicons.dev)
 
+
+![elizianeandreia GitHub stats](https://github-readme-stats.vercel.app/api?username=elizianeandreia&show_icons=true&theme=merko)
 
     
