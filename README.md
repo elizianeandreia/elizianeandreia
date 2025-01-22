@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**elizianeandreia/elizianeandreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # 🚀 Olá, me chamo Eliziane codinome Lizi  - Software Developer /Support
+  
+  ## Sobre mim
+  
+  ✨ Sou uma pessoa apaixonadoa por desafios criativos e soluções inovadoras, e estou determinada a levar a programação a um novo patamar ao misturar arte e código para criar experiências únicas. Além disso, ofereço suporte respeitável e empático, colocando as necessidades dos usuários em primeiro lugar e oferecendo soluções personalizadas✨
+  
+  ## Habilidades Tecnológicas
+  
+  💻 Aqui estão algumas das tecnologias que eu domino:
+  
+  
+  -  Linguagens de Programação| Desenvolvimento Web  
+      [![My Skills](https://skillicons.dev/icons?i=html,css,java,typescript)](https://skillicons.dev)
+  - Frameworks e Bibliotecas: 
+  
+      [![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,angular)](https://skillicons.dev)
+  - Dados: 
+  
+      [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
+  - Api
 
-Here are some ideas to get you started:
+  
+      [![My Skills](https://skillicons.dev/icons?i=postman,kibana)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    
