@@ -25,6 +25,7 @@
 
 
 ![elizianeandreia GitHub stats](https://github-readme-stats.vercel.app/api?username=elizianeandreia&show_icons=true&theme=merko)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=elizianeandreia&layout=compact&theme=dracula)
 
 ## 📫 Contato
 
