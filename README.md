@@ -31,4 +31,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liziandreia@gmail.com)](mailto:liziandreia@gmail.com)
 [![Linkedin: Eliziane ](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliziane-a-a523062a0//)](https://www.linkedin.com/in/eliziane-a-a523062a0/)
-    
+
+## 🌐 Meu Site
+
+[![Website](https://img.shields.io/badge/🌐%20Meu%20Site-Lth's%20Tecnologia-0e76a8?style=flat-square&logo=google-chrome&logoColor=white)](https://www.lthstecnologia.com.br)
