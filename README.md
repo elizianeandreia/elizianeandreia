@@ -14,14 +14,14 @@
       [![My Skills](https://skillicons.dev/icons?i=html,css,java,typescript)](https://skillicons.dev)
   - Frameworks e Bibliotecas: 
   
-      [![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,angular)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=react,vue,redux,bootstrap,angular)](https://skillicons.dev)
   - Dados: 
   
       [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
   - Api
 
   
-      [![My Skills](https://skillicons.dev/icons?i=postman,kibana)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=postman,soap)](https://skillicons.dev)
 
 
 ![elizianeandreia GitHub stats](https://github-readme-stats.vercel.app/api?username=elizianeandreia&show_icons=true&theme=merko)
