@@ -1,9 +1,9 @@
 
   
   ## Sobre mim
-  # 🚀 Olá, me chamo Eliziane codinome Lizi  - Software Developer   | Support
+  #  Olá, me chamo Eliziane codinome Lizi  - Software Developer   | Support
   
-  ✨ Sou uma pessoa apaixonadoa por desafios criativos e soluções inovadoras. Além disso, ofereço suporte respeitável e empático, colocando as necessidades dos usuários em primeiro lugar e oferecendo soluções personalizadas✨
+  ✨ Sou uma pessoa apaixonada por desafios criativos e soluções inovadoras. Além disso, ofereço suporte respeitável e empático, colocando as necessidades dos usuários em primeiro lugar e oferecendo soluções personalizadas✨
   
   ## Habilidades Tecnológicas
   
