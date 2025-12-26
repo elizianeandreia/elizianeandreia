@@ -24,8 +24,10 @@
       [![My Skills](https://skillicons.dev/icons?i=postman,soap)](https://skillicons.dev)
 
 
-![elizianeandreia GitHub stats](https://github-readme-stats.vercel.app/api?username=elizianeandreia&show_icons=true&theme=merko)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=elizianeandreia&layout=compact&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elizianeandreia&show_icons=true&theme=merko&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizianeandreia&layout=compact&theme=dracula&cache_seconds=86400)
+
 
 ## 📫 Contato
 
