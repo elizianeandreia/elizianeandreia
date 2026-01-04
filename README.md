@@ -24,6 +24,9 @@
       [![My Skills](https://skillicons.dev/icons?i=postman,soap)](https://skillicons.dev)
 
 
+![Snake animation](https://raw.githubusercontent.com/elizianeandreia/elizianeandreia/output/github-contribution-grid-snake.svg)
+
+
 
 
 
