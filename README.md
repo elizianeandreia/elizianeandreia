@@ -1,7 +1,7 @@
 ## Sobre mim
 ### People Operations & Tech
 
-✨ Sou uma pessoa apaixonada por desafios criativos e soluções inovadoras. Além disso, ofereço suporte respeitável e empático, colocando as necessidades dos usuários em primeiro lugar e oferecendo soluções personalizadas ✨
+✨ Atuo em People Operations e Tecnologia com foco na modelagem de processos, automação de rotinas e apoio à tomada de decisão por meio de soluções digitais.✨
 
 ---
 
