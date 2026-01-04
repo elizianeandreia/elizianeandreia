@@ -25,13 +25,14 @@ Aqui estão algumas das tecnologias que eu domino:
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elizianeandreia&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elizianeandreia&show_icons=true&theme=github_dark)
 
 ---
 
 ## Linguagens mais usadas
 
-![Top Langs](https://raw.githubusercontent.com/elizianeandreia/elizianeandreia/output/top-langs.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizianeandreia&layout=compact&theme=github_dark)
+
 
 
 
