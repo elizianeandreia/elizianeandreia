@@ -24,6 +24,13 @@ Aqui estão algumas das tecnologias que eu domino:
 
 ---
 
+## Top Languages:
+JavaScript                    ███████████████░░░░░░░░░░  60%
+Typescript                         ██████████░░░░░░░░░░░░░░░░░░░░ 20%
+Python                            █████░░░░░░░░░░░░░░░░░░░░░░░ 10%
+HTML5                           ██░░░░░░░░░░░░░░░░░░░░░░  5%
+CSS3                             ██░░░░░░░░░░░░░░░░░░░░░░  5%
+
 ## 🌐 Meu Site
 
 [![Website](https://img.shields.io/badge/🌐%20Meu%20Site-Lth's%20Tecnologia-0e76a8?style=flat-square&logo=google-chrome&logoColor=white)](https://www.lthstecnologia.com.br)
