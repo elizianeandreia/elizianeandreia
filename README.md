@@ -21,20 +21,6 @@ Aqui estão algumas das tecnologias que eu domino:
 ### 🔌 API
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
----
-
-## Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elizianeandreia&show_icons=true&theme=github_dark)
-
----
-
-## Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizianeandreia&layout=compact&theme=github_dark)
-
-
-
 
 ---
 
