@@ -36,13 +36,6 @@ Aqui estão algumas das tecnologias que eu domino:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizianeandreia&layout=compact&theme=radical)
 
 
-
-
-
-## 📫 Contato
-
-*(adicione aqui seus links se quiser: LinkedIn, e-mail, etc.)*
-
 ---
 
 ## 🌐 Meu Site
