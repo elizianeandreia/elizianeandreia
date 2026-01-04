@@ -25,12 +25,16 @@ Aqui estão algumas das tecnologias que eu domino:
 
 ##  Contribuições
 
-[![Snake animation](https://raw.githubusercontent.com/elizianeandreia/elizianeandreia/output/github-contribution-grid-snake.svg)](https://github.com/elizianeandreia)
+![Snake animation](https://raw.githubusercontent.com/elizianeandreia/elizianeandreia/output/github-contribution-grid-snake.svg)
 
---
+---
+
 ## Estatísticas
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elizianeandreia&show_icons=true&theme=radical)](https://github.com/elizianeandreia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elizianeandreia&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizianeandreia&layout=compact&theme=radical)
+
 
 
 
