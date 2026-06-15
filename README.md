@@ -1,5 +1,5 @@
 ## Sobre mim
-### Tech Specialist
+### Operações e Tecnologia
 
 Atuo em Operações e Tecnologia com foco na modelagem de processos, automação de rotinas e apoio à tomada de decisão por meio de soluções digitais.
 
