@@ -7,7 +7,7 @@ Atuo em Operações e Tecnologia com foco na modelagem de processos, automação
 
 ## Habilidades Tecnológicas
 
-Aqui estão algumas das tecnologias que eu domino:
+Aqui estão algumas das tecnologias com as quais estudo e desenvolvo projetos:
 
 ### 👩‍💻 Linguagens de Programação | Desenvolvimento Web
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,typescript,php)](https://skillicons.dev)
