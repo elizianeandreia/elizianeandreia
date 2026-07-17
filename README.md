@@ -13,7 +13,7 @@ Aqui estão algumas das tecnologias que eu domino:
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,typescript,php)](https://skillicons.dev)
 
 ### 🧩 Frameworks e Bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,vue,redux,bootstrap,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,redux,bootstrap,angular,laravel)](https://skillicons.dev)
 
 ### 🗄️ Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
