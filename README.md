@@ -24,12 +24,9 @@ Aqui estão algumas das tecnologias que eu domino:
 
 ---
 
-## Top Languages:
-JavaScript                    ███████████████░░░░░░░░░░  60%
-Typescript                         ██████████░░░░░░░░░░░░░░░░░░░░ 20%
-Python                            █████░░░░░░░░░░░░░░░░░░░░░░░ 10%
-HTML5                           ██░░░░░░░░░░░░░░░░░░░░░░  5%
-CSS3                             ██░░░░░░░░░░░░░░░░░░░░░░  5%
+## 📊 Linguagens mais utilizadas
+
+[![Linguagens mais utilizadas](https://github-stats-extended.vercel.app/api/top-langs?username=elizianeandreia&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/stats-organization/github-stats-extended)
 
 ## 🌐 Meu Site
 
