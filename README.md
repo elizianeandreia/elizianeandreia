@@ -18,8 +18,18 @@ Aqui estão algumas das tecnologias com as quais estudo e desenvolvo projetos:
 ### 🗄️ Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
 
-### 🔌 API
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+### 🔌 APIs, Webhooks e Integrações
+
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+- Integração e consumo de APIs REST;
+- Envio e recebimento de dados em JSON;
+- Automação de processos por webhooks;
+- Testes e validação de requisições com Postman.
 
 
 ---
