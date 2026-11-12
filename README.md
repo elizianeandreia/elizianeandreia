@@ -38,6 +38,4 @@ Aqui estão algumas das tecnologias com as quais estudo e desenvolvo projetos:
 
 [![Linguagens mais utilizadas](https://github-stats-extended.vercel.app/api/top-langs?username=elizianeandreia&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/stats-organization/github-stats-extended)
 
-## 🌐 Meu Site
 
-[![Website](https://img.shields.io/badge/🌐%20Meu%20Site-Lth's%20Tecnologia-0e76a8?style=flat-square&logo=google-chrome&logoColor=white)](https://www.lthstecnologia.com.br)
