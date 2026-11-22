@@ -10,7 +10,7 @@ Atuo em Operações e Tecnologia com foco na modelagem de processos, automação
 Aqui estão algumas das tecnologias com as quais estudo e desenvolvo projetos:
 
 ### 👩‍💻 Linguagens de Programação | Desenvolvimento Web
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,typescript,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,typescript,php,python)](https://skillicons.dev)
 
 ### 🧩 Frameworks e Bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=react,vue,redux,bootstrap,angular,laravel)](https://skillicons.dev)
